@@ -1,4 +1,4 @@
-This is the new commit
+My first readme
 <<<<<<< HEAD
 is different
 =======
